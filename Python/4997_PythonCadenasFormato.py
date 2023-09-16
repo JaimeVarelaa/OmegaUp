@@ -1,0 +1,6 @@
+mensaje=input()
+print(mensaje.lower())
+print(mensaje.upper())
+print(mensaje.capitalize())
+print(mensaje.title())
+print(mensaje.swapcase())
